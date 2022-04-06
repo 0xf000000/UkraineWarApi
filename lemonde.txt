@@ -1,0 +1,25 @@
+{
+    "name":"Le Monde",
+    "adress":"https://www.lemonde.fr/ukraine/",
+    "base":""
+    
+},
+{
+    "name":"Washington Post",
+    "adress":"https://www.washingtonpost.com/world/ukraine-russia/",
+    "base":"",
+    "Country":"USA"
+    
+},
+ {
+        "name": "SouthChinaMorning Post",
+        "adress": "https://www.scmp.com/topics/ukraine",
+        "base": "https://www.scmp.com"
+    },
+
+     {
+        "name": "UnitedDailyNews",
+        "adress": "https://www.usnews.com/news/world",
+        "base": ""
+    },
+    https://www.hollywoodreporter.com/c/news/
